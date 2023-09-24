@@ -1,0 +1,5 @@
+requests
+pandas
+s3fs
+awscli
+boto3
